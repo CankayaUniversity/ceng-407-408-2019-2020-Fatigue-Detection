@@ -229,6 +229,7 @@ class MyPanel(wx.Panel):
         cv2.destroyAllWindows()
 
 
+
 class MyApp(wx.App):
        def OnInit(self):
         self.frame = MyFrame(parent = None, title="Fatigue Detection")
