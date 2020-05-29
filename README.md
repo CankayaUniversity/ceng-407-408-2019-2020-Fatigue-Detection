@@ -13,8 +13,8 @@ $ git clone https://github.com/CankayaUniversity/ceng-407-408-2019-2020-Fatigue-
 - Run on your platform  
 **Note:** If you are using PyCharm;
 - Go to VCS - > Get from Version Control
-- Just enter our repository URL(*https://github.com/CankayaUniversity/ceng-407-408-2019-2020-Fatigue-Detection.git*).
-
+- Just enter our repository URL(*https://github.com/CankayaUniversity/ceng-407-408-2019-2020-Fatigue-Detection.git*).  
+**Note:** you will need to have two videos to get a result.
 ## Requirements
 | Package  | Version |
 | ------------- | ------------- |
